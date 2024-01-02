@@ -12,7 +12,7 @@ public class App {
        // String result= name.toUpperCase();
         //String result= name.toLowerCase();
         //String result = name.trim();
-        String result = name.replace('o','a');
+        String result = name.replace('o','z');
 
 
 
